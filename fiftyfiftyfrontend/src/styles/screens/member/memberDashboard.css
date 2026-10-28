@@ -1,0 +1,14 @@
+.member-card-hero {
+  background: linear-gradient(135deg, rgba(255, 107, 0, 0.15), rgba(0, 229, 255, 0.05)), var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  padding: 32px;
+  margin-bottom: 24px;
+}
+
+.member-plan-name {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--brand-primary);
+  margin-top: 8px;
+}

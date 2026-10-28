@@ -1,0 +1,12 @@
+export const SUBSCRIPTION_STATUS = Object.freeze({
+  ACTIVE: 'ACTIVE',
+  EXPIRED: 'EXPIRED',
+  PENDING: 'PENDING',
+  CANCELLED: 'CANCELLED'
+});
+
+export const MEMBER_STATUS = Object.freeze({
+  ACTIVE: 'ACTIVE',
+  INACTIVE: 'INACTIVE',
+  ARCHIVED: 'ARCHIVED'
+});
